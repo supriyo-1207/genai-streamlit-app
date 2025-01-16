@@ -1,0 +1,3 @@
+.venv
+.env
+question_answer_dataset.csv
