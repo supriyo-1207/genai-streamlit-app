@@ -1,4 +1,4 @@
-# Langchain Google Generative AI
+# genai-streamlit-app
 
 <img src="https://drive.google.com/uc?export=view&id=1O_nwXF1buw8YkaE24QlBiPBCciYb8nmW" alt="Image 1" width="500px" height="500px" style="display:inline-block;">
 
